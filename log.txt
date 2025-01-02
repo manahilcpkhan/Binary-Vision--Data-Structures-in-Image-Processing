@@ -1,0 +1,17 @@
+main execute 
+Image Constructor 
+Image class read(apple-18.pgm)
+Image class mean() 
+Image class getSize() 
+Image class on_off() 
+Image class average_black() 
+Image class ConvertToNegative() 
+Image class save() 
+Image class RLC() 
+Image class saveRLC() 
+Image class readRLC( )
+Image class blackRLC( )
+Image class ConvertToNegativeRLC( )
+Image class stack_cce(100,100) 
+Image Destructor
+main Destructor
